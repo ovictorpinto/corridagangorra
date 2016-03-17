@@ -1,0 +1,9 @@
+*.iml
+CorridaGangorra/.gradle
+CorridaGangorra/local.properties
+CorridaGangorra/.idea/workspace.xml
+CorridaGangorra/.idea/libraries
+CorridaGangorra/.DS_Store
+CorridaGangorra/build
+CorridaGangorra/captures
+CorridaGangorra/.idea
